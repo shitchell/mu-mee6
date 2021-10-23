@@ -1,6 +1,4 @@
 # mu-mee6
-Leaderboard stats for Matt Upham's Discord Server
-
 Simple repo for tracking the leaderboard for Matt Upham's [Coding & Programming discord server](https://discord.gg/5sGQ2zcQtR).
 
 ## Google Colab
