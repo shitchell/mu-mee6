@@ -1,5 +1,5 @@
 # mu-mee6
-Simple repo for tracking the leaderboard for Matt Upham's [Coding & Programming discord server](https://discord.gg/5sGQ2zcQtR).
+Simple repo to track the leaderboard for Matt Upham's [Coding & Programming discord server](https://discord.gg/5sGQ2zcQtR).
 
 ## Google Colab
 View a graph of the data on Google Colab (which is the main reason for this repo):  
